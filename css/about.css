@@ -128,7 +128,7 @@ body {
     display: block;
     border-radius: 10px;
     justify-content: center;
-    background: linear-gradient(180deg, #2D314D 0%, rgba(45, 49, 77, 0.0001) 100%)
+    background: linear-gradient(180deg, #2D314D 0%, rgba(45, 49, 77, 0.0001) 100%);
   }
 
   .site-nav-on .site-header__menu-btn {
@@ -682,7 +682,7 @@ color: #333D4B;
     font-weight: 900;
     font-size: 28px;
     line-height: 36px;
-    color: #333D4B;
+    color: #0a0c0f;
 
 }
 
