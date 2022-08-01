@@ -154,38 +154,6 @@ li {
     border: none;
 }
 
-/* .site-header__sitenav .sitenav {
-    display: block;
-    background-image: linear-gradient(180deg, rgba(254, 252, 247, 0.504981) 0%, #FEFCF7 55.94%);
-}
-
-.sitenav {
-    width: 375px;
-    height: 537px;
-    background-image: linear-gradient(180deg, rgba(254, 252, 247, 0.504981) 0%, #FEFCF7 55.94%);
-    position: absolute;
-    top: 0;
-    right: -105px;
-}
-
-.sitenav__list {
-    width: 220px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.logo__img--btn {
-    margin-bottom: 81px;
-}
-
-.sitenav__item {}
-
-.sitenav__link {}
-  */
-
 
 
 
